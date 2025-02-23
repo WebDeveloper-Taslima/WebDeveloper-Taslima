@@ -1,3 +1,6 @@
+
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEdCl6Yg716OQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1691927853989?e=1746057600&v=beta&t=nC4sByh8vyL5zOYO6fDhXLV2ShWM4QCiVUU8aIZH7ZM">
+
 <h1 align="center">Hi 👋, I'm Taslima Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
