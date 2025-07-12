@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEKd_cYpdSCdQ/profile-displaybackgroundimage-shrink_350_1400/B56ZYGcjUqHQAY-/0/1743864871376?e=1749081600&v=beta&t=jPwfSCVTCvCG4wmkIObHlUkFAX8fHbK-sov6zeME41k">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEKd_cYpdSCdQ/profile-displaybackgroundimage-shrink_350_1400/B56ZYGcjUqHQAY-/0/1743864871376?e=1757548800&v=beta&t=zkVPobQlG2wRndmKsZDY2tI383-dpVPog9DaYiJHGdc">
 
 <h1 align="center">Hi 👋, I'm Taslima Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
